@@ -23,6 +23,7 @@
 
 Verifying who (or what) an agent is.
 
+- [ODEI](https://api.odei.ai) - World Model infrastructure with ERC-8004 on-chain agent identity (Base #2065, BSC #5249), constitutional guardrails, and SATI soul-bound NFT (Member #18). [GitHub](https://github.com/odei-ai/web)
 - [Chitin](https://chitin.id/) - On-chain birth certificates for AI agents using ERC-8004 soulbound tokens on Base L2.
 - [World ID](https://world.org/) - Proof-of-personhood protocol that distinguishes humans from AI agents.
 - [Trusta.AI](https://trustalabs.ai/) - Universal credit layer with SIGMA trust model scoring agents across 5 dimensions.
@@ -107,6 +108,7 @@ The plumbing that makes it all work.
 Infrastructure for building economic agents.
 
 - [ElizaOS](https://elizaos.ai/) - Autonomous agent framework for crypto with cross-chain support via Chainlink CCIP. [GitHub](https://github.com/elizaOS/eliza)
+- [ODEI](https://api.odei.ai) - World Model as a Service — constitutional knowledge graph (91 nodes, 6 domains) for persistent agent memory, 7-layer guardrail validation (APPROVED/REJECTED/ESCALATE), and smart contract audit. ERC-8004 registered on Base (#2065) and BSC (#5249). Live on Virtuals ACP (#3082), Fetch.ai Agentverse, and Clawlancer. [GitHub](https://github.com/odei-ai/web)
 - [CrewAI](https://www.crewai.com/) - Multi-agent orchestration framework used by 60% of Fortune 500 companies. [GitHub](https://github.com/crewAIInc/crewAI)
 - [Autonolas](https://olas.network/) - Protocol for autonomous agent services on-chain. Multi-agent systems with composable services. [GitHub](https://github.com/valory-xyz)
 - [Bittensor](https://bittensor.com/) - Decentralized AI network with 129+ subnets for different AI tasks. [GitHub](https://github.com/opentensor/bittensor)
