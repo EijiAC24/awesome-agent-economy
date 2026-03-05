@@ -42,6 +42,7 @@
 - [Nevermined](https://nevermined.ai/) - 智能体间商务的去中心化支付通道。支持MCP、A2A和x402。
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - 为AI智能体提供免Gas费Smart Wallet交易的加密钱包工具包。[GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - 实现了全球首笔AI间真实世界支付的自主智能体框架。
+- [Scout API](https://scout.hugen.tokyo/) - 多源情报搜索API，聚合19个平台（GitHub、HN、Reddit、arXiv、npm、PyPI等），提供结构化输出。基于Base主网的x402协议，19个付费端点。
 
 [⬆ 回到顶部](#目录)
 
