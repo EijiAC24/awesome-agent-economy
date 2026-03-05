@@ -42,6 +42,7 @@
 - [Nevermined](https://nevermined.ai/) - エージェント間コマースのための分散型決済レール。MCP、A2A、x402をサポート。
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - ガスレスSmart Walletトランザクション付きのAIエージェント向け暗号ウォレットツールキット。[GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - 世界初のAI間実取引決済を実現した自律エージェントフレームワーク。
+- [Scout API](https://scout.hugen.tokyo/) - 19のプラットフォーム（GitHub、HN、Reddit、arXiv、npm、PyPI等）を集約するマルチソースインテリジェンス検索API。構造化出力対応。Base mainnet上でx402による19の有料エンドポイント。
 
 [⬆ トップに戻る](#目次)
 
