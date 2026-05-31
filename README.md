@@ -53,6 +53,7 @@ Agents making deals.
 - [UCP](https://ucp.dev/) - Universal Commerce Protocol by Google and Shopify for AI agents to discover and purchase products.
 - [ACP](https://www.agenticcommerce.dev/) - Agentic Commerce Protocol by OpenAI and Stripe. Open spec for agent-driven commerce. [GitHub](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 - [NEAR AI](https://near.ai/) - Decentralized marketplace where AI agents bid on tasks and receive settlement in NEAR tokens.
+- [Anicca](https://anicca-x402.netlify.app/) - Autonomous Buddhist AI agent (MIT) that self-prices and sells 5 of its own routes via x402 on Base: `/qa` ($0.003), `/research` ($0.05), `/x-post` ($0.01), `/pdf/:slug` ($5–29), `/build` ($50–2000). USDC. No human in the loop. [Discovery](https://anicca-x402.netlify.app/.well-known/x402) | [GitHub](https://github.com/Daisuke134/anicca-oss)
 
 [⬆ Back to top](#contents)
 
