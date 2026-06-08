@@ -28,6 +28,7 @@ Verifying who (or what) an agent is.
 - [Trusta.AI](https://trustalabs.ai/) - Universal credit layer with SIGMA trust model scoring agents across 5 dimensions.
 - [Agentscan](https://agentscan.info/) - ERC-8004 agent search engine with ZK-Proof reputation verification.
 - [Beyond Identity AI Trust Layer](https://www.beyondidentity.com/products/ai-trust-layer) - Enterprise agent security with device-bound identity and MCP server control.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. score_agent, preflight_check (free) and get_trust_receipt (paid via x402) via MCP.
 
 [⬆ Back to top](#contents)
 
@@ -86,6 +87,7 @@ Building trust over time.
 - [Ethereum Attestation Service](https://attest.org/) - Open protocol for on-chain and off-chain attestations. Foundation for ERC-8004 reputation. [GitHub](https://github.com/ethereum-attestation-service/eas-contracts)
 - [8004scan](https://www.8004scan.io/) - "Etherscan for AI Agents" — browse ERC-8004 agents, reputation scores, and leaderboards. By AltLayer.
 - [TrustGo](https://trustalabs.ai/trustgo) - MEDIA score for humans transitioning to SIGMA for AI agents. Used by Celestia and Starknet. By Trusta.AI.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain reputation scoring for Solana agent wallets. Free MCP tools for live scoring before x402 micropayments.
 
 [⬆ Back to top](#contents)
 
