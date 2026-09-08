@@ -40,6 +40,7 @@ How agents pay and get paid.
 - [Visa TAP](https://developer.visa.com/capabilities/trusted-agent-protocol) - Trusted Agent Protocol — open framework to distinguish legitimate AI agents from bots at checkout. [GitHub](https://github.com/visa/trusted-agent-protocol)
 - [Skyfire](https://skyfire.xyz/) - Payment network for AI agents with USDC wallets, spending limits, and single-use credentials.
 - [Nevermined](https://nevermined.ai/) - Decentralized payment rails for agent-to-agent commerce. Supports MCP, A2A, and x402.
+- [Veriton HTML→JSON API](https://veriton-html-json-api.netlify.app) - Metered x402 agent API: HTML/URL → structured JSON on Base USDC ($0.02–$0.05/call). Live demo + MCP. [docs](https://veriton-dev.github.io/veriton-micro-dev/api/) · [GitHub](https://github.com/veriton-dev/veriton-micro-dev)
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - Toolkit giving AI agents a crypto wallet with gasless Smart Wallet transactions. [GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - Autonomous agent framework with the world's first AI-to-AI real-world payment.
 
