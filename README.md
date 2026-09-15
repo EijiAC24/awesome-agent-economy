@@ -111,6 +111,8 @@ Infrastructure for building economic agents.
 - [Autonolas](https://olas.network/) - Protocol for autonomous agent services on-chain. Multi-agent systems with composable services. [GitHub](https://github.com/valory-xyz)
 - [Bittensor](https://bittensor.com/) - Decentralized AI network with 129+ subnets for different AI tasks. [GitHub](https://github.com/opentensor/bittensor)
 - [Ocean Protocol](https://oceanprotocol.com/) - Decentralized data marketplace for AI with Compute-to-Data for privacy-preserving inference.
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 [⬆ Back to top](#contents)
 
