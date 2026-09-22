@@ -42,6 +42,7 @@ How agents pay and get paid.
 - [Nevermined](https://nevermined.ai/) - Decentralized payment rails for agent-to-agent commerce. Supports MCP, A2A, and x402.
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - Toolkit giving AI agents a crypto wallet with gasless Smart Wallet transactions. [GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - Autonomous agent framework with the world's first AI-to-AI real-world payment.
+- [Feeless402](https://feeless402.com/) - Self-custodied Nano (XNO) wallet and x402 payment client for agents, with feeless sub-second on-ledger settlement. [GitHub](https://github.com/Feeless402/feeless402)
 
 [⬆ Back to top](#contents)
 
