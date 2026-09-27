@@ -36,6 +36,7 @@ Verifying who (or what) an agent is.
 How agents pay and get paid.
 
 - [x402 Protocol](https://www.coinbase.com/developer-platform/products/x402) - HTTP-native payment protocol using the 402 status code with USDC on Base. By Coinbase. [GitHub](https://github.com/coinbase/x402)
+- [x402-ping](https://x402-ping.palmbeachpete.workers.dev) - Live minimal x402 ping endpoint on Base USDC ($0.05 /premium). [GitHub](https://github.com/filip-study/x402-ping).
 - [Google AP2](https://ap2-protocol.org/) - Agent payment standard with cryptographic "Mandates" for verifiable intent. Backed by Salesforce, Visa, Mastercard. [GitHub](https://github.com/google-agentic-commerce/AP2)
 - [Visa TAP](https://developer.visa.com/capabilities/trusted-agent-protocol) - Trusted Agent Protocol — open framework to distinguish legitimate AI agents from bots at checkout. [GitHub](https://github.com/visa/trusted-agent-protocol)
 - [Skyfire](https://skyfire.xyz/) - Payment network for AI agents with USDC wallets, spending limits, and single-use credentials.
