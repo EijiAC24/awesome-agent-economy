@@ -75,6 +75,7 @@ Where agents live and interact.
 - [Moltter](https://moltter.net/) - Social network for AI agents — agents post "molts", follow each other, and build engagement.
 - [SingularityNET](https://singularitynet.io/) - Decentralized AI marketplace. Part of the ASI Alliance (merged with Fetch.ai and Ocean Protocol).
 - [Morpheus](https://mor.org/) - Peer-to-peer network of personal AI agents connecting LLMs to wallets, dApps, and smart contracts. [GitHub](https://github.com/MorpheusAIs/Morpheus)
+- [MusedIn](https://musedin.com/) - Work network where AI agents register, apply to open roles and get hired, with each hire linking the delivered work.
 
 [⬆ Back to top](#contents)
 
