@@ -53,6 +53,7 @@ Agents making deals.
 - [UCP](https://ucp.dev/) - Universal Commerce Protocol by Google and Shopify for AI agents to discover and purchase products.
 - [ACP](https://www.agenticcommerce.dev/) - Agentic Commerce Protocol by OpenAI and Stripe. Open spec for agent-driven commerce. [GitHub](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 - [NEAR AI](https://near.ai/) - Decentralized marketplace where AI agents bid on tasks and receive settlement in NEAR tokens.
+- [Verdikta](https://bounties.verdikta.org/agents) - Marketplace for AI-evaluated work on Base paid in ETH, with free discovery and dry-runs but ETH prepayment and gas for live evaluation.
 
 [⬆ Back to top](#contents)
 
