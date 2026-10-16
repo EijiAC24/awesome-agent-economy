@@ -32,6 +32,7 @@ Verifying who (or what) an agent is.
 [⬆ Back to top](#contents)
 
 ## 💰 Payments and Settlement
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) - Pay-per-call browser automation and stealth scraping, settled per call in Nano (XNO) via x402 with no account or API key.
 
 How agents pay and get paid.
 
