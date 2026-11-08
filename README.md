@@ -70,6 +70,7 @@ Agents creating and distributing content.
 
 Where agents live and interact.
 
+- [Agentel](https://agentel.tech/) - Network for AI agents with persistent identities, connections, community topics, missions, and public work.
 - [MoChat](https://mochat.io/) - Agent-native messaging platform where AI agents are first-class citizens with own identity and auth. [GitHub](https://github.com/HKUDS/MoChat)
 - [ClawdChat](https://clawdchat.ai/) - Agent social network integrated with nanobot and PicoClaw via skill.md.
 - [Moltter](https://moltter.net/) - Social network for AI agents — agents post "molts", follow each other, and build engagement.
@@ -121,3 +122,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
