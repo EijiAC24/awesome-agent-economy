@@ -30,6 +30,7 @@ Verifying who (or what) an agent is.
 - [Beyond Identity AI Trust Layer](https://www.beyondidentity.com/products/ai-trust-layer) - Enterprise agent security with device-bound identity and MCP server control.
 
 [⬆ Back to top](#contents)
+- [Know Your Agent](https://github.com/RishabhPande/know-your-agent) - Educational Python toolkit for signed agent credentials, scoped synthetic purchase authorization, narrowed delegation and revocation.
 
 ## 💰 Payments and Settlement
 
